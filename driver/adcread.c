@@ -17,6 +17,6 @@ int main (int argc,char *argv[]){
 	while (1){
 		read(fd,&val,4);
 		printf("val=%d\r\n",val);
-		sleep(1);
+		sleep(2);
 	}
 }
