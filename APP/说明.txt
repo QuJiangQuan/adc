@@ -1,0 +1,3 @@
+myadc里是APP源代码
+注意build.gradle里的写法
+注意gradle.properties里的写法
